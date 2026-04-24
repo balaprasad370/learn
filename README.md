@@ -4,11 +4,11 @@ Started: **2026-04-23**
 
 ## Candidate snapshot
 
-- **Current:** Senior Software Engineer, 5 YoE, 22 LPA (India)
-- **Target:** ~50 LPA / 3-4 lakhs per month
+- **Current:** Senior Software Engineer, 5 YoE
+<!-- - **Target:** ~50 LPA / 3-4 lakhs per month -->
 - **Type:** Startup (Indian or global-with-India-presence). Remote OK.
 - **Strengths:** Full-stack (frontend + backend), cloud, DevOps, AI/ML. Built 0→1 and 1→10.
-- **Email:** info@meduniverse.app
+
 
 ## Files
 
