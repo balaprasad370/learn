@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.ycombinator.com)",
+      "WebFetch(domain:topstartups.io)",
+      "WebFetch(domain:platform.uplers.com)",
+      "WebFetch(domain:jobs.weekday.works)",
+      "WebFetch(domain:wellfound.com)",
+      "WebFetch(domain:careers.lyzr.ai)",
+      "WebFetch(domain:www.uplers.com)"
+    ]
+  }
+}
