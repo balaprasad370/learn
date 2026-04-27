@@ -113,6 +113,14 @@ Most of these haven't posted detailed senior comp publicly, but recent YC India 
 | **Simplismart** | Seed/A | ~35–55 LPA | LLM inference optimization |
 | **Ema, CoRover, Observe.AI, Haptik, Gupshup, Mad Street Den, Fractal** | Various | 35–60 LPA | Applied AI across verticals |
 
+### 3d. Top-tier targets — US HQ with India presence, 1 Cr+ comp
+
+| Company | Funding | India presence | Comp signal | What they do |
+|---------|---------|----------------|-------------|--------------|
+| **Giga (giga.ai)** | YC + Series A $61M (Redpoint, Nexus, YC, Nov 2025) | Bangalore (intermittent hiring) | **~1 Cr LPA confirmed** for SDE-II + Senior roles posted earlier in 2026 (now closed) | Voice AI agents for enterprise customer support. Customer: DoorDash (80% deflection, 90%+ resolution accuracy). Indian-origin founders (Esha Dinne, Varun Vummadi). Open-source models, deploy on client cloud. Expanding to healthcare + finance. |
+
+**Action:** No live req as of 2026-04-26. Pipeline play — direct LinkedIn outreach to founders + India recruiter, ask to be considered when reqs reopen. Build relationship now, not later.
+
 ---
 
 ## SECTION 4 — Generic JD pattern for senior SWE roles (5 YoE, ₹45–65 LPA)
@@ -159,6 +167,7 @@ Ranked by (fit × comp-probability × hiring-urgency):
 13. **Numeral (YC W23, remote)** — SWE Product $170–250K.
 14. **GitLab** — Staff Backend Golang, remote India. about.gitlab.com/jobs.
 15. **Vercel / Supabase / PlanetScale** — Senior SWE remote. Direct company careers pages.
+16. **Giga (giga.ai)** — Voice AI agents, Bangalore, ~1 Cr band. No live req — direct founder outreach (LinkedIn: Esha Dinne, Varun Vummadi). Pipeline for next opening.
 
 ---
 
